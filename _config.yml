@@ -1,4 +1,3 @@
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -14,20 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: David Won 
-email: davidwon7@gmail.com
+title: Daniel LEUNG
+email: daniel2005315@gmail.com
 #Write an awesome description for your new site here. You can edit this
 #line in _config.yml. It will appear in your document head meta (for
 #Google search results) and in your feed.xml site description.
 description: > # this means to ignore newlines until "baseurl:"
- CUHK CS Graduate 
+ A young CS student working his way as a software engineer
+
 #baseurl: "/site" # the subpath of your site, e.g. /blog /site
 baseurl: "/site" # the subpath of your site, e.g. /blog /site
-url: "https://davidwon7.github.io" # the base hostname & protocol for your site
-#imgurl: "https://raw.githubusercontent.com/daniel2005315/site/gh-pages" #for linking imgs into posts
+url: "https://daniel2005315.github.io" # the base hostname & protocol for your site
+imgurl: "https://raw.githubusercontent.com/daniel2005315/site/gh-pages" #for linking imgs into posts
 twitter_username: ""
-github_username:  davidwon7
-facebook_username: David Won
+github_username:  daniel2005315
+facebook_username: Daniel Leung
 
 # Build settings
-theme: jekyll-theme-architect
+markdown: kramdown
+theme: minima
