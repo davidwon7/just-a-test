@@ -30,5 +30,4 @@ github_username:  davidwon7
 facebook_username: David Won
 
 # Build settings
-markdown: kramdown
 theme: jekyll-theme-architect
